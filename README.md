@@ -21,3 +21,14 @@ This repository contains various data analysis projects implemented in Python, f
 To run the notebooks:
 
 1. Clone the repository:
+   git clone https://github.com/konovalyk/Python-projects.git
+
+2. Navigate to the project directory:
+cd Python-projects
+
+3. Open the desired notebook using Jupyter Notebook or Google Colab.
+
+## License
+
+This project is licensed under the MIT License.
+
