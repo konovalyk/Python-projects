@@ -1,4 +1,23 @@
-# Python-projects
-# EDA_for_online_store_jpynb.ipynb – Data cleaning and analysis of online and offline sales of an international company.
-# Exploratory_data_analysis_for_online_store_jpynb.ipynb – Analysis of sales and behavior of registered users of an international furniture online store.
-# A_B_test_statistical_significance.ipynb – Checking the statistical significance of AB test results.
+# Python Projects Portfolio
+
+This repository contains various data analysis projects implemented in Python, focusing on exploratory data analysis and A/B testing.
+
+## Projects
+
+### 1. Exploratory Data Analysis for Online Store
+
+- **Description**: Analyzing online and offline sales data of an international company to identify sales trends and customer behavior.
+- **Tools**: pandas, matplotlib, seaborn
+- **Key Findings**: [Briefly mention key insights]
+
+### 2. A/B Test Statistical Significance
+
+- **Description**: Evaluating the statistical significance of A/B test results to determine the effectiveness of a new feature.
+- **Tools**: scipy.stats, pandas
+- **Conclusion**: [Summarize the outcome]
+
+## Getting Started
+
+To run the notebooks:
+
+1. Clone the repository:
